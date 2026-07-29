@@ -12,22 +12,22 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     </a>
     <a href="https://mysql.com">
-        <img src="https://shields.io" alt="MySQL" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </a>
     <a href="https://php.net">
-        <img src="https://shields.io" alt="PHP" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
     </a>
     <!-- Frontend Web -->
     <a href="https://mozilla.org">
-        <img src="https://img.shields.io/w3c-validation/:parser
-        " alt="HTML5" />
+        <img src="https://img.shields.io/badge/HTML/CSS-CB3837?style=for-the-badge&logo=html5&logoColor=white
+        " alt="HTML/CSS" />
     </a>
     <a href="https://mozilla.org">
-        <img src="https://img.shields.io/badge/:badgeContent
-        " alt="CSS3" />
+        <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white
+        " alt="Git" />
     </a>
     <a href="https://mozilla.org">
-        <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript" alt="JavaScript" />
+        <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" alt="JavaScript" />
     </a>
     <br><br>
     <!-- Social Links & Nickname Certification -->
