@@ -17,7 +17,6 @@
     <a href="https://php.net">
         <img src="https://shields.io" alt="PHP" />
     </a>
-    
     <!-- Frontend Web -->
     <a href="https://mozilla.org">
         <img src="https://img.shields.io/w3c-validation/:parser
@@ -30,7 +29,6 @@
     <a href="https://mozilla.org">
         <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript" alt="JavaScript" />
     </a>
-
     <br><br>
     <!-- Social Links & Nickname Certification -->
     <!-- <a href="https://t.me/dimflix_official"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
