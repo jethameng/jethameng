@@ -19,12 +19,10 @@
     </a>
     <!-- Frontend Web -->
     <a href="https://mozilla.org">
-        <img src="https://img.shields.io/badge/HTML/CSS-CB3837?style=for-the-badge&logo=html5&logoColor=white
-        " alt="HTML/CSS" />
+        <img src="https://img.shields.io/badge/HTML/CSS-CB3837?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
     </a>
     <a href="https://mozilla.org">
-        <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white
-        " alt="Git" />
+        <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
     </a>
     <a href="https://mozilla.org">
         <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" alt="JavaScript" />
