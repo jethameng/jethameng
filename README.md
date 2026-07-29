@@ -7,12 +7,30 @@
 
 <div align="center">
     <!-- Tech Stack Badges -->
-    <a href="https://www.python.org/"><img src="https://shields.io" alt="Python"/></a>
-    <a href="https://www.mysql.com/"><img src="https://shields.io" alt="MySQL"/></a>
-    <a href="https://www.php.net/"><img src="https://shields.io" alt="PHP"/></a>
-    <a href="#"><img src="https://shields.io" alt="HTML5"/></a>
-    <a href="#"><img src="https://shields.io" alt="CSS3"/></a>
-    <a href="#"><img src="https://shields.io" alt="JavaScript"/></a>
+     <!-- Backend & Database -->
+    <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </a>
+    <a href="https://mysql.com">
+        <img src="https://shields.io" alt="MySQL" />
+    </a>
+    <a href="https://php.net">
+        <img src="https://shields.io" alt="PHP" />
+    </a>
+    
+    <!-- Frontend Web -->
+    <a href="https://mozilla.org">
+        <img src="https://img.shields.io/w3c-validation/:parser
+        " alt="HTML5" />
+    </a>
+    <a href="https://mozilla.org">
+        <img src="https://img.shields.io/badge/:badgeContent
+        " alt="CSS3" />
+    </a>
+    <a href="https://mozilla.org">
+        <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript" alt="JavaScript" />
+    </a>
+
     <br><br>
     <!-- Social Links & Nickname Certification -->
     <!-- <a href="https://t.me/dimflix_official"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
