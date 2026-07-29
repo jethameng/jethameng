@@ -5,6 +5,25 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=2000&pause=3000&color=4CB8C2&center=true&repeat=false&width=600&height=60&lines=Greetings!+I'm+Jet!" alt="Typing SVG" /></a>
 </div>
 
+<div align="center">
+    <!-- Tech Stack Badges -->
+    <a href="https://www.python.org/"><img src="https://shields.io" alt="Python"/></a>
+    <a href="https://www.mysql.com/"><img src="https://shields.io" alt="MySQL"/></a>
+    <a href="https://www.php.net/"><img src="https://shields.io" alt="PHP"/></a>
+    <a href="#"><img src="https://shields.io" alt="HTML5"/></a>
+    <a href="#"><img src="https://shields.io" alt="CSS3"/></a>
+    <a href="#"><img src="https://shields.io" alt="JavaScript"/></a>
+    <br><br>
+    <!-- Social Links & Nickname Certification -->
+    <!-- <a href="https://t.me/dimflix_official"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
+    <a href="https://www.youtube.com/DIMFLIX"><img src="https://img.shields.io/badge/-YouTube-f2cdcd?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/></a>
+    <a href="https://orcid.org/0009-0002-5036-3822"><img src="https://img.shields.io/badge/-ORCID-f5c2e7?style=for-the-badge&logo=orcid&logoColor=4F7DB3" alt="ORCID"/></a>
+    <a href="https://www.kaggle.com/dimflix/"><img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=5F66E6" alt="Kaggle"/></a>
+    <br>
+    <a href="https://mynickname.com/id1843842"><img src="https://mynickname.com/img.php?nick=dimflix&sert=24&text=t8" alt="Nickname dimflix registred!" /></a> -->
+</div>
+
+
 <!--
 **jethameng/jethameng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
